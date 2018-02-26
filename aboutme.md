@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." HAL 9000
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Olá.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Meu nome é **Atmos Maciel**.
 
-What else do you need?
+### Sobre mim
 
-### my history
+Graduado em Ciência da Computação pela faculdade Pitágoras, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como desenvolvedor de sistemas web usando PHP. "Flertante" com DevOps, Python e GO e também com programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Também sou viciado em café e arranho no violão de vez em quando. Gosto do cubo mágico e acredito que um dia vou conseguir jogar xadrez e poker.
+
+--------------------------------------------------
+
+Até logo!
