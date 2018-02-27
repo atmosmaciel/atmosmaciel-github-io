@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Atmos Maciel
+subtitle: I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do. HAL 9000
 use-site-title: true
 ---
 
@@ -33,6 +33,7 @@ use-site-title: true
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        <p></p>
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: "I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do." HAL 9000
+subtitle: I am putting myself to the fullest possible use, which is all I think that any conscious entity can ever hope to do. HAL 9000
 ---
 
-## Olá.
+## Olá
 
 Meu nome é **Atmos Maciel**.
 
