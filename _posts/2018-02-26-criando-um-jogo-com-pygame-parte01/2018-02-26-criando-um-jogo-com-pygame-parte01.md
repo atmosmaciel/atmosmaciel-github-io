@@ -26,4 +26,4 @@ Eu criei um virtualenv chamado env-pygame através do seguinte comando:
 
 ```mkvirtualenv env-pygame```
 
-![](image.png)
+![](./image.png)
