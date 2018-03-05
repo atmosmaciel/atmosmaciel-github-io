@@ -24,6 +24,8 @@ description: I am putting myself to the fullest possible use, which is all I thi
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Heptum: "https://heptum.com.br/"
+  Impacto Maker: "https://impactomaker.com.br/"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
