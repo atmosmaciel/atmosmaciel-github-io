@@ -72,4 +72,4 @@ No próximo artigo vamos começar a implementar as primeiras funções do nosso 
 
 Por hoje é só galera. Até a próxima.
 
-*OBS: Este artigo foi originalmente postado no site da [Code Experts Learning](https://blog.codeexpertslearning.com.br/como-criar-seu-primeiro-jogo-com-pygame-parte-01-8eb7e704a488)*.
+*OBS: Este artigo foi originalmente postado no site da <a target="_blank" href="https://blog.codeexpertslearning.com.br/como-criar-seu-primeiro-jogo-com-pygame-parte-01-8eb7e704a488">Code Experts Learning</a>*.
