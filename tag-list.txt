@@ -1,0 +1,19 @@
+My Tag List
+
+* Maranhão
+* Tecnologia
+* PHP
+* Frameworks
+* Python
+* GO Lang
+* Personal
+* Comunidades
+* Projects
+* Linux
+* DevOps
+* Docker
+* Games
+* Programing
+* Agile
+* Astronomy
+* MicroServices
