@@ -71,3 +71,5 @@ A bola se move de forma independente dentro do espaço e se ela passar pela barr
 No próximo artigo vamos começar a implementar as primeiras funções do nosso game.
 
 Por hoje é só galera. Até a próxima.
+
+*OBS: Este artigo foi originalmente postado no site da [Code Experts Learning](https://blog.codeexpertslearning.com.br/como-criar-seu-primeiro-jogo-com-pygame-parte-01-8eb7e704a488)*.
