@@ -2,6 +2,7 @@
 layout: post
 title: Criando um jogo com Pygame - parte 01
 subtitle: Conhecendo o projeto e fazendo configurações iniciais
+tags: [python, pygame, games]
 ---
 
 Neste artigo nós iremos criar um jogo utilizando o Pygame. Este primeiro exemplo será bem simples para que a gente possa absorver os conceitos iniciais do Pygame e também utilizar algumas de suas funções na prática.

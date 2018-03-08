@@ -3,8 +3,10 @@ My Tag List
 * Maranhão
 * Tecnologia
 * PHP
+* phpmaranhao
 * Frameworks
 * Python
+* Pygame
 * GO Lang
 * Personal
 * Comunidades
