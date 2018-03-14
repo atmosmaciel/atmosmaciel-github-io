@@ -10,9 +10,13 @@ Meu nome é **Atmos Maciel**.
 
 ### Sobre mim
 
-Graduado em Ciência da Computação pela faculdade Pitágoras, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como desenvolvedor de sistemas web usando PHP. "Flertante" com DevOps, Python e GO e também com programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
+Graduado em Ciência da Computação pela faculdade Pitágoras, presidente da comunidade PHP Maranhão e Co-founder da Heptum e Impacto Maker. Eu trabalho, atualmente, como desenvolvedor de sistemas web usando, principalmente PHP. "Flertante" com DevOps, Python e GO e também com programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias web, ciência e inovação.
 
 Também sou viciado em café e arranho no violão de vez em quando. Gosto do cubo mágico e acredito que um dia vou conseguir jogar xadrez e poker.
+
+### Apresentações
+
+Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a>, algumas no linkedin.
 
 ### Background Credits
 
@@ -21,7 +25,6 @@ A imagem utilizada no Background do Header é um fragamento da imagem abaixo. Pa
 <center>
     <a href='https://wall.alphacoders.com/big.php?i=403441'><img src='https://images8.alphacoders.com/403/403441.gif'></a>
 </center>
-
 
 --------------------------------------------------
 
