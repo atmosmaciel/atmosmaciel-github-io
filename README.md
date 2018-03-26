@@ -1,6 +1,6 @@
-# Personal Page
+# Personal Page - v1
 
-My Personal Blog/Page.
+My Personal Blog / Page - v1
 
 Original Template: [beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)
 
