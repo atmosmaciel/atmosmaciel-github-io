@@ -51,7 +51,8 @@ navbar-text-col: "#D8D8D8"
 navbar-children-col: "#404040"
 # navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#ff8d00"
+# link-col: "#ff8d00"
+link-col: "#007f6c"
 hover-col: "#007f6c"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -127,7 +128,7 @@ url-pretty: "atmosmaciel.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "atmosmaciel"
 
 # Facebook App ID
 # fb_app_id: ""
