@@ -6,7 +6,7 @@ subtitle: I am putting myself to the fullest possible use, which is all I think 
 
 ## Olá
 
-Meu nome é **Atmos Maciel**.
+Meu nome é <a href="https://about.me/atmosmaciel" target="_blank">Atmos Maciel</a>.
 
 ### Sobre mim
 
@@ -16,11 +16,11 @@ Também sou viciado em café e arranho no violão de vez em quando. Gosto do cub
 
 ### Apresentações
 
-Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a>, algumas no linkedin.
+Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a>.
 
 ### Background Credits
 
-A imagem utilizada no Background do Header é um fragamento da imagem abaixo. Para ir até a fonte aonde eu a encontrei, basta clicar na imagem. Como a fonte, não especifica nenhuma licença, deixo aqui minha citação da foto.
+A imagem utilizada no Background do Header é um fragamento da imagem abaixo. Para ir até a fonte aonde eu a encontrei, basta clicar na imagem. Como a fonte, não especifica nenhuma licença, deixo aqui minha citação e agradecimentos para os criadores.
 
 <center>
     <a href='https://wall.alphacoders.com/big.php?i=403441'><img src='https://images8.alphacoders.com/403/403441.gif'></a>

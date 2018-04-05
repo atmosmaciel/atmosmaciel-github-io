@@ -24,8 +24,9 @@ description: I am putting myself to the fullest possible use, which is all I thi
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Heptum: "https://heptum.com.br/"
-  Impacto Maker: "https://impactomaker.com.br/"
+  Projects:
+    - Heptum: "https://heptum.com.br/"
+    - Impacto Maker: "https://impactomaker.com.br/"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -77,8 +78,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   # rss: true
-  linkedin: atmosmaciel
   github: atmosmaciel
+  linkedin: atmosmaciel
+  medium: @atmosmaciel
   twitter: atmosmps
   instagram: atmosmps
   facebook: atmosmps
@@ -99,7 +101,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
