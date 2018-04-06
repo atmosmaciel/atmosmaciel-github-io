@@ -66,6 +66,9 @@ var main = {
 
     // show the big header image
     main.initImgs();
+
+    // show Scroll To Top
+    main.initScrollToTop();
   },
 
   initImgs : function() {
@@ -126,29 +129,30 @@ var main = {
   },
 
   setImg : function(src, desc) {
-	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
-	if (typeof desc !== typeof undefined && desc !== false) {
-	  $(".img-desc").text(desc).show();
-	} else {
-	  $(".img-desc").hide();
-	}
+  	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+  	if (typeof desc !== typeof undefined && desc !== false) {
+  	  $(".img-desc").text(desc).show();
+  	} else {
+  	  $(".img-desc").hide();
+  	}
+  },
+
+  initScrollToTop : function() {
+    $(window).scroll(function() {
+      if ($(this).scrollTop() >= 50) {
+        $('#return-to-top').fadeIn(200);
+      } else {
+        $('#return-to-top').fadeOut(200);
+      }
+    });
+    $('#return-to-top').click(function() {
+      $('body,html').animate({
+        scrollTop : 0
+      }, 500);
+    });
   }
 };
 
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
-
-// === Scroll to Top ==== //
-$(window).scroll(function() {
-  if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
-      $('#return-to-top').fadeIn(200);    // Fade in the arrow
-  } else {
-      $('#return-to-top').fadeOut(200);   // Else fade out the arrow
-  }
-});
-$('#return-to-top').click(function() {      // When arrow is clicked
-  $('body,html').animate({
-      scrollTop : 0                       // Scroll to top of body
-  }, 500);
-});
