@@ -18,6 +18,9 @@ Também sou viciado em café e arranho no violão de vez em quando. Gosto do cub
 
 Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a>.
 
+
+### Thanks <a href="https://codyhouse.co/" target="_blank">CodyHouse</a> for <a href="https://github.com/CodyHouse/back-to-top" target="_blank">back-to-top</a>!
+
 ### Background Credits
 
 A imagem utilizada no Background do Header é um fragamento da imagem abaixo. Para ir até a fonte aonde eu a encontrei, basta clicar na imagem. Como a fonte, não especifica nenhuma licença, deixo aqui minha citação e agradecimentos para os criadores.
