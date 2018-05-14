@@ -101,3 +101,13 @@ medium:
   baseURL: "https://medium.com/"
   icon: "fa-medium"
   
+heptum:
+  name: "Heptum"
+  baseURL: "https://www.heptum.com.br"
+  icon: "fa-link"
+
+impactomaker:
+  name: "Impacto Maker"
+  baseURL: "https://impactomaker.com.br"
+  icon: "fa-link"
+  
