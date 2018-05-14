@@ -96,9 +96,9 @@ Iremos criar nossas operações dentro deste controller.
 
 ### Configurando outras dependências
 
-Antes de dar continuidade, vamos instalar uma depência que iremos utlizar mais a frente. Essa dependência é o jms/seralizer. Falaremos sobre serialização mais a frente, por hora instale o jms/seralizer com o seguinte comando:
+Antes de dar continuidade, vamos instalar uma depência que iremos utlizar mais a frente. Essa dependência é o ```jms/seralizer``` . Falaremos sobre serialização mais a frente, por hora instale o ```jms/seralizer``` com o seguinte comando:
 
-https://jmsyst.com/libs/serializer
+```composer require jms/serializer```
 
 ## Conclusão
 
